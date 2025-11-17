@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://link-da-imagem.png" alt="Code Oblivion Team" width="500" />
+  <img src="logo-code-oblivion.png" alt="Code Oblivion Team" width="500" />
 </p>
 
 <h1 align="center">🚀 Code Oblivion</h1>
