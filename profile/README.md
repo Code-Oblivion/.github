@@ -140,7 +140,7 @@ Para manter tudo minimamente organizado:
 
 | Nome               | GitHub                                      |
 | ------------------ | ------------------------------------------- | 
-| Agatha Sates 👑    | [@Agatha](https://github.com/AgathaSates)     |
+| Agatha Sates       | [@Agatha](https://github.com/AgathaSates)     |
 | Otávio Brignoni    | [@Otávio](https://github.com/otaviobrignoni)  |         
 | Alex Araldi        | [@Alex](https://github.com/AlexAraldi)        |         
 
